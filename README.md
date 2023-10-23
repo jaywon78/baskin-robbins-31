@@ -8,3 +8,6 @@ Ice-Cream 친구들의 101, 그 중 최고의 맛은
 > 하나의 모션그래픽으로 제작한 “베스킨라빈스의 모든것” 입니다.
 
 ## Result
+<p align="center">
+  <img src="https://github.com/jaywon78/baskin-robbins-31/assets/141727385/236c0cf7-602c-4b3f-b3f4-c1c837991c38">
+</p>
